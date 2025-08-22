@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using warehouse_manager.ui;
 namespace warehouse_manager
 {
     internal static class Program
@@ -16,7 +16,7 @@ namespace warehouse_manager
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new login());
+            Application.Run(new LoginForm());
         }
     }
 }

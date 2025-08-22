@@ -2,7 +2,6 @@ C:\Users\Hi ASUS TUF\source\repos\warehouse_manager\warehouse_manager\bin\Debug\
 C:\Users\Hi ASUS TUF\source\repos\warehouse_manager\warehouse_manager\bin\Debug\warehouse_manager.exe
 C:\Users\Hi ASUS TUF\source\repos\warehouse_manager\warehouse_manager\bin\Debug\warehouse_manager.pdb
 C:\Users\Hi ASUS TUF\source\repos\warehouse_manager\warehouse_manager\obj\Debug\warehouse_manager.csproj.AssemblyReference.cache
-C:\Users\Hi ASUS TUF\source\repos\warehouse_manager\warehouse_manager\obj\Debug\warehouse_manager.Form1.resources
 C:\Users\Hi ASUS TUF\source\repos\warehouse_manager\warehouse_manager\obj\Debug\warehouse_manager.Properties.Resources.resources
 C:\Users\Hi ASUS TUF\source\repos\warehouse_manager\warehouse_manager\obj\Debug\warehouse_manager.csproj.GenerateResource.cache
 C:\Users\Hi ASUS TUF\source\repos\warehouse_manager\warehouse_manager\obj\Debug\warehouse_manager.csproj.CoreCompileInputs.cache
